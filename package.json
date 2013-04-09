@@ -15,5 +15,5 @@
     "install": "node build.js",
     "postinstall": "node build.js",
     "postuninstall":"node build.js"
-  },
+  }
 }

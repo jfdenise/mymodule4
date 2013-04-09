@@ -12,7 +12,7 @@
   , "url" : "http://github.com/jfdenise/mymodule4.git"
   },
   "scripts": {
-    "install": "node build.js",
+    "install": "node build.js ",
     "postinstall": "node build.js",
     "postuninstall":"node build.js"
   }

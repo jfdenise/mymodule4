@@ -1,6 +1,6 @@
 {
   "name": "mymodule4",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A test module useless",
   "main": "myscript1.js",
   "build": "node build.js",
